@@ -1,5 +1,7 @@
 # desafio-fullstack
-O objetivo desse teste é entender quais são as suas habilidades de desenvolvimento, estética e técnicas
+O objetivo desse teste é entender quais são as suas habilidades de desenvolvimento, estética e técnicas.
+
+<h2>Tecnologias Utilizadas: .Net 6 + Vue.js 3 + Mysql</h2>
 
 ![image](https://raw.githubusercontent.com/sigrid-fr/desafio-fullstack/main/imagem.png)
 
